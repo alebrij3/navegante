@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
+import Layout from "../components/layout";
 import Date from "../components/date";
 import styles from "../styles/Home.module.css";
 import utilStyles from "../styles/utils.module.css";
@@ -17,29 +18,25 @@ export async function getStaticProps() {
 
 export default function Home({ allPostsData }) {
   return (
-    <div className={styles.container}>
+    <Layout home>
       <Head>
         <title>Navegante digital</title>
       </Head>
+      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+        <h2 className={utilStyles.headingLg}>Blog</h2>
+        <ul className={utilStyles.list}>
+          {allPostsData.map(({ id, date, title }) => (
+            <li className={utilStyles.listItem} key={id}>
+              <Link href={id}>
+                <a>{title}</a>
+              </Link>
 
-      <main className={styles.main}>
-        <h1 className={styles.title}>Navegante digital</h1>
-        <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-          <h2 className={utilStyles.headingLg}>Blog</h2>
-          <ul className={utilStyles.list}>
-            {allPostsData.map(({ id, date, title }) => (
-              <li className={utilStyles.listItem} key={id}>
-                <Link href={id}>
-                  <a>{title}</a>
-                </Link>
-
-                <br />
-                <Date dateString={date} />
-              </li>
-            ))}
-          </ul>
-        </section>
-      </main>
-    </div>
+              <br />
+              <Date dateString={date} />
+            </li>
+          ))}
+        </ul>
+      </section>
+    </Layout>
   );
 }
