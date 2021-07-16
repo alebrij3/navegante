@@ -28,7 +28,7 @@ Estuve en el Live final de La ciudad de las esfinges y a partir de eso conocí a
 
 Volviendo al club de la salamandra: Una aventura que empezó dentro de un libro con un mensaje en una lata de tomate Le consiglio di visitare la biblioteca romana di questa via e chiedere salió de las páginas para convertirse en parte de mi vida al lado de personas maravillosas.
 
-Gracias al [Clan Lector](https://twitter.com/clanlector) y a [La Orden del Fénix](https://twitter.com/cll) 📚
+Gracias al [Clan Lector](https://twitter.com/clanlector) y a [La Orden del Fénix](https://twitter.com/clordendelfenix) 📚
 
 Cómo empezó:
 ![captura de pantalla de conversación](/images/captura-de-pantalla-conversacion-vanne-twitter-dm.jpeg)
