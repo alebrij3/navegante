@@ -50,3 +50,10 @@
 .lightText {
   color: #666;
 }
+
+.heroHeader {
+  height: 400px;
+  width: 100vw;
+  margin: 0;
+  background-image: url('/images/main-bg.jpg');
+}
