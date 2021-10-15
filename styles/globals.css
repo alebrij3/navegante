@@ -11,6 +11,13 @@ a {
   text-decoration: underline;
 }
 
+a.post-title {
+  display: block;
+  line-height: 1;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 * {
   box-sizing: border-box;
 }

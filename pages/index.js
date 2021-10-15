@@ -28,10 +28,8 @@ export default function Home({ allPostsData }) {
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
               <Link href={id}>
-                <a>{title}</a>
+                <a className="post-title">{title}</a>
               </Link>
-
-              <br />
               <Date dateString={date} />
             </li>
           ))}
