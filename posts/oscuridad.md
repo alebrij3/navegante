@@ -2,7 +2,7 @@
 title: "Oscuridad"
 date: "2018-12-28"
 tags: "sentimientos"
-author: "Ale"
+author: "navegante"
 excerpt: "He mirado al cielo, no está la luna, no están las estrellas. Sólo hay oscuridad."
 ---
 

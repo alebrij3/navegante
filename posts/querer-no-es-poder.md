@@ -2,7 +2,7 @@
 title: "Querer no es poder"
 date: "2019-01-10"
 tags: "pensamientos"
-author: "Ale"
+author: "navegante"
 excerpt: "Querer no es suficiente, querer es lo mínimo. Con eso se empieza, pero no es suficiente. Querer es querer y poder es poder, son dos cosas diferentes."
 ---
 

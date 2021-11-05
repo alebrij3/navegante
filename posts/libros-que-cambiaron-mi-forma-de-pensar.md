@@ -2,7 +2,7 @@
 title: "Libros que han cambiado mi forma de pensar"
 date: "2021-07-25"
 tags: "lecturas"
-author: "Ale"
+author: "navegante"
 excerpt: "Libros que tomaron mi manera de pensar del mundo para triturarlos en la licuadora."
 ---
 

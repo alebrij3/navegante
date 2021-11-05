@@ -2,7 +2,7 @@
 title: "Lo tengo todo"
 date: "2017-11-17"
 tags: "pensamientos"
-author: "Ale"
+author: "navegante"
 excerpt: "Me siento agradecido y me doy cuenta de mi fortuna. Puedo sentir, oler un perfume, saborear una uva o ver un atardecer. Puedo andar, hablar, querer y soñar."
 ---
 
