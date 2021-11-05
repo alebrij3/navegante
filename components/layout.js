@@ -19,26 +19,11 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-            <div className={utilStyles.heroHeader}>
-
-            </div>
+            <div className={utilStyles.heroHeader}></div>
             <h1 className={utilStyles.heading2Xl}>{siteTitle}</h1>
           </>
         ) : (
-          <>
-            <Link href="/">
-              <a>
-                <Image
-                  priority
-                  src="/images/profile.jpg"
-                  className={utilStyles.borderCircle}
-                  height={108}
-                  width={108}
-                  alt={siteTitle}
-                />
-              </a>
-            </Link>
-          </>
+          <div className={utilStyles.heroHeader}></div>
         )}
       </header>
       <main>{children}</main>
