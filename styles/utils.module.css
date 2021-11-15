@@ -52,9 +52,16 @@
 }
 
 .heroHeader {
-  height: 400px;
+  height: 220px;
   width: 100vw;
   margin: 0;
-  background-image: url('/images/blue-horizon.jpeg');
-  background-size: cover;
+  background: rgb(11, 56, 144);
+  background: linear-gradient(
+    0deg,
+    rgba(11, 56, 144, 1) 0%,
+    rgba(0, 96, 218, 1) 32%,
+    rgba(135, 194, 252, 1) 75%,
+    rgba(144, 201, 254, 1) 82%,
+    rgba(209, 236, 255, 1) 100%
+  );
 }
