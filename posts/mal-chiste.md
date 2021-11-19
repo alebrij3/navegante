@@ -6,10 +6,7 @@ author: "navegante"
 excerpt: ""
 ---
 
-A veces la vida es un mal chiste
-
-allá tú
-
-si volteas los ojos
-
-o te ríes
+A veces la vida es un mal chiste<br />
+allá tú<br />
+si te enojas<br />
+o te ríes.<br />
