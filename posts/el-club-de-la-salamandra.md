@@ -1,9 +1,9 @@
 ---
-title: "El club de la salamandra"
-date: "2021-04-30"
-tags: "lecturas"
-author: "navegante"
-excerpt: "Una aventura que empezó dentro de un libro con un mensaje en una lata de tomate Le consiglio di visitare la biblioteca romana di questa via e chiedere salió de las páginas para convertirse en parte de mi vida al lado de personas maravillosas."
+title: 'El club de la salamandra'
+date: '2021-04-30'
+tags: 'lecturas'
+author: 'navegante'
+excerpt: 'Una aventura que empezó dentro de un libro con un mensaje en una lata de tomate Le consiglio di visitare la biblioteca romana di questa via e chiedere salió de las páginas para convertirse en parte de mi vida al lado de personas maravillosas.'
 ---
 
 Inicio: 6 de abril de 2021
@@ -42,4 +42,4 @@ Lives:
 
 Resaltados:
 
-> Quien sabe cómo funciona el mundo, tiene derecho a controlarlo.
+> Quien sabe cómo funciona el mundo tiene derecho a controlarlo.
